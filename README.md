@@ -1,6 +1,7 @@
 Explanation of Cryptographic Has API.md
 ==============
 
+
 Cryptographic Hash Function
 --------------
 +과거에는 데이터베이스에 저장된 비밀번호와 사용자가 입력한 값을 직접 비교하는 프로세스가 일반적
