@@ -28,7 +28,7 @@ Kind of Cryptographic Hash Function
 
 Stretching & Salt
 -----------
-![Alt text](/C:\Users\user\Desktop\Hallym\2018-2\OpenSourceSW\Assignment/to/hash_function03.png)
+![hash_function03](https://user-images.githubusercontent.com/43162506/49694907-b484ad80-fbd5-11e8-97ef-944af811cfbb.png)
 스트레칭은 복잡한 연산을 반복 적용하는 것을 의미합니다. 즉, 암호화 해시 함수를 수천 번에서 혹은 수만 번을 반복하는 것이죠. 이는 무작위 공격으로 비밀번호를 추측하는 데 많은 시간이 소요되도록 하는 방법으로, 반복 횟수를 늘리는 것만으로도 방어력을 효과적으로 높일 수 있다는 장점이 있습니다.
 
 ![Alt text](/C:\Users\user\Desktop\Hallym\2018-2\OpenSourceSW\Assignment/to/hash_function02(1).png)
